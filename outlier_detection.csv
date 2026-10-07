@@ -1,0 +1,5 @@
+variable,lower_fence,upper_fence,outliers_IQR,outliers_zscore_gt3,shapiro_p
+bill_length_mm,25.85,62.25,0,0,1e-05
+bill_depth_mm,10.95,23.35,0,0,1e-05
+flipper_length_mm,155.5,247.5,0,0,0.0
+body_mass_g,1712.5,6612.5,0,0,0.0

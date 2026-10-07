@@ -1,0 +1,5 @@
+model,cv_mean,cv_std,test_accuracy
+Logistic Regression,0.9879,0.016,1.0
+SVM (RBF),0.9879,0.016,1.0
+k-Nearest Neighbours,0.9839,0.015,1.0
+Random Forest,0.9838,0.0152,0.9881

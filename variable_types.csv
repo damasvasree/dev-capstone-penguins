@@ -1,0 +1,8 @@
+,dtype,unique_values,example,data_type_category
+species,str,3,Adelie,Categorical (nominal)
+island,str,3,Torgersen,Categorical (nominal)
+bill_length_mm,float64,164,39.1,Numerical (continuous)
+bill_depth_mm,float64,80,18.7,Numerical (continuous)
+flipper_length_mm,float64,55,181.0,Numerical (continuous)
+body_mass_g,float64,94,3750.0,Numerical (continuous)
+sex,str,2,Male,Categorical (binary)

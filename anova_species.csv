@@ -1,0 +1,5 @@
+variable,F_statistic,p_value,eta_squared
+bill_length_mm,397.3,1.38e-88,0.707
+bill_depth_mm,344.8,1.45e-81,0.676
+flipper_length_mm,567.4,1.59e-107,0.775
+body_mass_g,341.9,3.74e-81,0.674

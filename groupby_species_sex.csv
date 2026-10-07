@@ -1,0 +1,7 @@
+species,sex,count,mean_mass,std_mass,max_flipper
+Adelie,Female,73,3368.8,269.4,202.0
+Adelie,Male,73,4043.5,346.8,210.0
+Chinstrap,Female,34,3527.2,285.3,202.0
+Chinstrap,Male,34,3939.0,362.1,212.0
+Gentoo,Female,58,4679.7,281.6,222.0
+Gentoo,Male,61,5484.8,313.2,231.0
